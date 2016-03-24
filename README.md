@@ -1,5 +1,5 @@
 # File Compressor
-Command line utility for losslessly encoding and decoding input and files into/from compressed codes of user-specified bit-length, based on the Lempel–Ziv–Welch algorithm.
+Command line utility for losslessly encoding and decoding input and files into/from compressed codes of user-specified bit-length, based on the Lempel–Ziv–Welch algorithm (http://www.cs.duke.edu/courses/spring03/cps296.5/papers/welch_1984_technique_for.pdf).
 
 ### Usage
 encode [-m MAXBITS | -o NAME | -i NAME | -p USED]*
